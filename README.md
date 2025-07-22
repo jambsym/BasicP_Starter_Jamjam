@@ -1,1 +1,3 @@
-# BasicP_Starter_Jamjam
+Name : Busayamas
+Nickname : jamjam
+SID : 68130500041
