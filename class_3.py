@@ -26,6 +26,4 @@ if x == "1":
         print("สู้เว้ย")
 elif x=="2":
         print("ไม่อยู่แย้ว")
-else :
-        print("โปรดเลือก 1 และ 2")
 print("เลือก 1.Sword = 150 2.Gun =200 3.Spear = 100")
